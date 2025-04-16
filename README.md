@@ -43,6 +43,6 @@ the exact organs that they might be looking for.
 10. Customise to your taste.
 
 ## Screenshots
-![alt text](https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png?raw=true)
+![alt text](https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png| width=100)
 
 
