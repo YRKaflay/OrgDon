@@ -43,5 +43,8 @@ the exact organs that they might be looking for.
 10. Customise to your taste.
 
 ## Screenshots
-<img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
-
+<p float="left">
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/BloodGroup.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/AddRecord.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
+</p>
