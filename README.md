@@ -45,6 +45,12 @@ the exact organs that they might be looking for.
 ## Screenshots
 <p float="left">
     <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
-    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/BloodGroup.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
-    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/AddRecord.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/BloodGroup.png" width="250" title="BloodGroup" alt="Show Blood Groups"/>
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/AddRecord.png" width="250" title="AddRecord" alt="Add a new record"/>
+    
+</p>
+<p float="left">
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/Donors.png" width="250" title="Donors" alt="Show Donor Details"/>
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/Hospital.png" width="250" title="BloodGroup" alt="Show Hospitals"/>
+    <img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/RecordsUpdate.png" width="250" title="AddRecord" alt="Update an old record"/>
 </p>
