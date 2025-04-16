@@ -43,6 +43,5 @@ the exact organs that they might be looking for.
 10. Customise to your taste.
 
 ## Screenshots
-![alt text](https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png|width=100)
-<img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png" width="100" title="HomeScreen" alt="Home Screen of App"/>
+<img src="https://github.com/YRKaflay/OrgDon/blob/main/Screenshots/HomeScreen.png" width="250" title="HomeScreen" alt="Home Screen of App"/>
 
